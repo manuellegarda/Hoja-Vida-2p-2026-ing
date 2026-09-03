@@ -4,6 +4,6 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Tu mensaje aquí
+## yo estuve aqui
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
