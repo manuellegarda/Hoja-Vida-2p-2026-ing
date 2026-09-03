@@ -4,6 +4,7 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Tu mensaje aquí
+## Samuel Eduardo Muñoz estuvo aquí
+
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
