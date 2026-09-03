@@ -4,8 +4,8 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Maicol
+## Oscar antonio solarte
 
-Maicol estuvo aqui
+oscar estuvo aqui
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
