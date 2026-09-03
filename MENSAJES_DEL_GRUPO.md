@@ -8,4 +8,4 @@ Documento para el ejercicio colaborativo.
 
 
 
-*Daniela, este es mi commit del Ejercicio 3*
+*Daniela, este es mi commit del Ejercicio 3.*
