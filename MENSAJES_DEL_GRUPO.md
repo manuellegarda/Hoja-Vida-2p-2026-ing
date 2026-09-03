@@ -4,8 +4,6 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Maicol
+## Juan Checa
 
-Maicol estuvo aqui
-
-*(Agrega tu sección cuando hagas el Ejercicio 3)*
+*(Hola soy Juan, este es mi commit para el Ejercicio 3)*
