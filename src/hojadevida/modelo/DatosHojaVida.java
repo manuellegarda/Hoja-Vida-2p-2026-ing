@@ -20,8 +20,8 @@ public class DatosHojaVida {
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2021-2024\n[Tecnico] - [IE Tecnico Inductrial]\2025-Actualidad\n[Ingenieria Informatica]";
     // ========== PERSONALIZA Y SEGUNDO COMMIT TUS DATOS AQUÍ ==========
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [construccion de sistema de biblioteca] - [Breve descripción]";
+    private String[] areasInteres = {"Algoritmos", "Seguridad Informatica"};
+    private String proyectos = "- Sistema de Nomina \n Sistema de facturacion energetica \n Sistema de biblioteca \n Bots de Telegram potenciados con IA";
     // =================================================
 
     public String getNombre() { return nombre; }
