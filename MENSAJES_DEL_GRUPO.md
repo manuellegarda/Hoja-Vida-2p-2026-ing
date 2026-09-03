@@ -9,3 +9,8 @@ Documento para el ejercicio colaborativo.
 Maicol estuvo aqui
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
+## ximena talaga montenegro
+
+ximena estuvo aqui
+
+
