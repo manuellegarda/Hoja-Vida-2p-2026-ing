@@ -13,12 +13,12 @@ public class DatosHojaVida {
     private String email = "Juan Manuel Anacona Morales";
     private String github = "github.com/JuanAnacona15";
      // ========== PERSONALIZA Y PRIMER COMMIT TUS DATOS AQUÍ ==========
-    private String[] habilidadesTecnicas = {"Python", "Git y GitHub", "Programación", "Estructura de Datos"};
-    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
-    private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
-    private String perfil = "docente tiempo completo";
+    private String[] habilidadesTecnicas = {"NodeJS", "Gestion de Servidores Linux", "Docker", "Java", "SQL"};
+    private String[] habilidadesBlandas = {"Trabajo en equipo", "Innovacion", "Logica"};
+    private String idiomas = "Español - Nativo\nEnglish - Básico (B1)";
+    private String perfil = "Programador y emprendedor";
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String educacion = "2021-2024\n[Tecnico] - [IE Tecnico Inductrial]\2025-Actualidad\n[Ingenieria Informatica]";
     // ========== PERSONALIZA Y SEGUNDO COMMIT TUS DATOS AQUÍ ==========
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
     private String proyectos = "• [construccion de sistema de biblioteca] - [Breve descripción]";
